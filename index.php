@@ -8,4 +8,6 @@
     <br><br>
     <a href="/04/">04: Методы __construct и __destruct</a>
     <br><br>
+    <a href="/05/">05: Класс для работы с файлом</a>
+    <br><br>
 </div>
