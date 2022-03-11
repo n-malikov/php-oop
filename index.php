@@ -16,4 +16,6 @@
     <br><br>
     <a href="/09/">09: public, private, protected</a>
     <br><br>
+    <a href="/10/">10: Абстрактные классы</a>
+    <br><br>
 </div>
